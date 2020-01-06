@@ -172,26 +172,26 @@
     <option name="LAST_COMMIT_MESSAGE" value=":art:将基础知识进行整理" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="324" y="122" key="CommitChangelistDialog2" timestamp="1578298613647">
+    <state x="324" y="122" key="CommitChangelistDialog2" timestamp="1578298792641">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="324" y="122" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1578298613647" />
+    <state x="324" y="122" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1578298792641" />
     <state x="463" y="170" key="SettingsEditor" timestamp="1578286267639">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="463" y="170" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1578286267639" />
-    <state x="552" y="261" key="Vcs.Push.Dialog.v2" timestamp="1578298760120">
+    <state x="552" y="261" key="Vcs.Push.Dialog.v2" timestamp="1578298812553">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1578298760120" />
+    <state x="552" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1578298812553" />
     <state x="652" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1578298730871">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="652" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1578298730871" />
     <state x="652" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578286197614" />
-    <state x="655" y="327" key="git4idea.merge.GitPullDialog" timestamp="1578298768483">
+    <state x="655" y="327" key="git4idea.merge.GitPullDialog" timestamp="1578298849562">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="655" y="327" key="git4idea.merge.GitPullDialog/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1578298768483" />
+    <state x="655" y="327" key="git4idea.merge.GitPullDialog/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1578298849562" />
   </component>
 </project>
