@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="927a2fc5-6cdf-43ed-be26-0167691e63f5" name="Default Changelist" comment="" />
+    <list default="true" id="927a2fc5-6cdf-43ed-be26-0167691e63f5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,6 +102,7 @@
       <workItem from="1574408056922" duration="318000" />
       <workItem from="1578286197373" duration="213000" />
       <workItem from="1578296688122" duration="1738000" />
+      <workItem from="1578298505743" duration="133000" />
     </task>
     <task id="LOCAL-00001" summary="2019年11月13日">
       <created>1573648214243</created>
@@ -129,7 +132,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578298406439</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=":art:将基础知识进行整理">
+      <created>1578298567642</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578298567642</updated>
+    </task>
+    <task id="LOCAL-00006" summary=":art:将基础知识进行整理">
+      <created>1578298614460</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578298614460</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,22 +172,26 @@
     <option name="LAST_COMMIT_MESSAGE" value=":art:将基础知识进行整理" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="324" y="122" key="CommitChangelistDialog2" timestamp="1578298566922">
+    <state x="324" y="122" key="CommitChangelistDialog2" timestamp="1578298613647">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="324" y="122" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1578298566922" />
+    <state x="324" y="122" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1578298613647" />
     <state x="463" y="170" key="SettingsEditor" timestamp="1578286267639">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="463" y="170" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1578286267639" />
-    <state x="552" y="261" key="Vcs.Push.Dialog.v2" timestamp="1578298574060">
+    <state x="552" y="261" key="Vcs.Push.Dialog.v2" timestamp="1578298760120">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1578298574060" />
-    <state x="652" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1578298506179">
+    <state x="552" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1578298760120" />
+    <state x="652" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1578298730871">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="652" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1578298506179" />
+    <state x="652" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1578298730871" />
     <state x="652" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578286197614" />
+    <state x="655" y="327" key="git4idea.merge.GitPullDialog" timestamp="1578298768483">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="655" y="327" key="git4idea.merge.GitPullDialog/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1578298768483" />
   </component>
 </project>
