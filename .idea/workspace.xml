@@ -1,393 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="927a2fc5-6cdf-43ed-be26-0167691e63f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/libs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaBase.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/1.DOS常用命令.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/1.DOS常用命令.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/10.网络编程.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/10.网络编程.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/11.反射与内省.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/11.反射与内省.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/12.泛型.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/12.泛型.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/13.正则表达式.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/13.正则表达式.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/14.枚举.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/14.枚举.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/15.注解.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/15.注解.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/16.XML与JSON.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/16.XML与JSON.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/17.GUI事件处理.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/17.GUI事件处理.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/2.Java编程基础.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/2.Java编程基础.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/3.方法与数组.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/3.方法与数组.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/4.面向对象.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/4.面向对象.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/5.Eclipse与异常处理.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/5.Eclipse与异常处理.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/6.常用类库.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/6.常用类库.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/7.文件与IO.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/7.文件与IO.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/8. 集合.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/8. 集合.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/9.多线程与并发.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/9.多线程与并发.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/JAVA内存区域分布图.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day06_常用类库/i18n/info_en_US.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day06_常用类库/i18n/info_zh_CN.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/buffer/bufferstream.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/bytecharacterstream/bytecharacterstream.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/bytestream/bytestream.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/charstream/charstream.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/copyfile/charstream.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/file/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/file/my.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/objectstream/dog.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/print/printStream.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/print/printWriter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day08_集合/集合框架.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day09_多线程与并发/线程生命周期.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day10_网络编程/OSI_TCPIP.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day10_网络编程/url/photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day11_反射与内省/aop/bean.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day11_反射与内省/introspector/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day16_XML与JSON/json/message.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day16_XML与JSON/json/name.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day16_XML与JSON/json/names.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day16_XML与JSON/xml/person.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/day16_XML与JSON/xml/test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/images/OSI_TCPIP.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/images/线程生命周期.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/images/集合框架.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/1.DOS常用命令.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/1.DOS常用命令.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/1.DOS常用命令.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/1.DOS常用命令.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/10.网络编程.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/10.网络编程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/10.网络编程.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/10.网络编程.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/11.反射与内省.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/11.反射与内省.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/11.反射与内省.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/11.反射与内省.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/12.泛型.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/12.泛型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/12.泛型.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/12.泛型.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/13.正则表达式.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/13.正则表达式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/13.正则表达式.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/13.正则表达式.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/14.枚举.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/14.枚举.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/14.枚举.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/14.枚举.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/15.注解.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/15.注解.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/15.注解.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/15.注解.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/16.XML与JSON.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/16.XML与JSON.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/16.XML与JSON.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/16.XML与JSON.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.GUI事件处理.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/17.GUI事件处理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17.GUI事件处理.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/17.GUI事件处理.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2.Java编程基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/2.Java编程基础.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2.Java编程基础.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/2.Java编程基础.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/3.方法与数组.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/3.方法与数组.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/3.方法与数组.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/3.方法与数组.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/4.面向对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/4.面向对象.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/4.面向对象.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/4.面向对象.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/5.Eclipse与异常处理.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/5.Eclipse与异常处理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/5.Eclipse与异常处理.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/5.Eclipse与异常处理.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/6.常用类库.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/6.常用类库.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/6.常用类库.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/6.常用类库.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/7.文件与IO.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/7.文件与IO.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/7.文件与IO.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/7.文件与IO.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/8. 集合.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/8. 集合.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/8. 集合.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/8. 集合.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/9.多线程与并发.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/9.多线程与并发.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/9.多线程与并发.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/9.多线程与并发.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAVA内存区域分布图.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/JAVA内存区域分布图.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01_HelloWorld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day01_HelloWorld/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/ArithmeticOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/ArithmeticOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/AssignmentOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/AssignmentOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/BaseDataType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/BaseDataType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/BaseDataTypeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/BaseDataTypeConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/BinaryConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/BinaryConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/BitOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/BitOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/BitOperatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/BitOperatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/DoWhileLoopStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/DoWhileLoopStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/DoWhileLoopStatementTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/DoWhileLoopStatementTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/EscapeCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/EscapeCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/ForLoopStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/ForLoopStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/ForLoopStatementTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/ForLoopStatementTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/ForLoopStatementTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/ForLoopStatementTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/Identifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/Identifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/IfElseBranchStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/IfElseBranchStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/IfElseBranchStatementTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/IfElseBranchStatementTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/IfElseBranchStatementTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/IfElseBranchStatementTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/IfElseBranchStatementTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/IfElseBranchStatementTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/LogicalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/LogicalOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/LogicalOperatorTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/LogicalOperatorTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/LogicalOperatorTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/LogicalOperatorTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/LogicalOperatorTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/LogicalOperatorTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/LogicalOperatorTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/LogicalOperatorTest4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/LoopStatementTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/LoopStatementTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/LoopStatementTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/LoopStatementTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/LoopStatementTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/LoopStatementTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/LoopStatementTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/LoopStatementTest4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/RelationalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/RelationalOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/SwitchBranchStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/SwitchBranchStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/SwitchBranchStatementTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/SwitchBranchStatementTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/SwitchBranchStatementTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/SwitchBranchStatementTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/TrinocularOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/TrinocularOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/Variable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/WhileLoopStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/WhileLoopStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/WhileLoopStatementTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/WhileLoopStatementTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02_Java编程基础/WhileLoopStatementTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day02_Java编程基础/WhileLoopStatementTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03_方法与数组/ArrayDefinitionAndAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day03_方法与数组/ArrayDefinitionAndAssignment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03_方法与数组/ArrayTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day03_方法与数组/ArrayTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03_方法与数组/ArrayTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day03_方法与数组/ArrayTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03_方法与数组/ArrayTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day03_方法与数组/ArrayTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03_方法与数组/ArraysTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day03_方法与数组/ArraysTools.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03_方法与数组/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day03_方法与数组/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03_方法与数组/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day03_方法与数组/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03_方法与数组/DirectInsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day03_方法与数组/DirectInsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03_方法与数组/MMAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day03_方法与数组/MMAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03_方法与数组/MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day03_方法与数组/MethodOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03_方法与数组/MethodReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day03_方法与数组/MethodReturn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03_方法与数组/MethodReturnTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day03_方法与数组/MethodReturnTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03_方法与数组/MultidimensionalArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day03_方法与数组/MultidimensionalArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03_方法与数组/NoParameterMethodDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day03_方法与数组/NoParameterMethodDefinition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03_方法与数组/ParametricMethodDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day03_方法与数组/ParametricMethodDefinition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03_方法与数组/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day03_方法与数组/SelectSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03_方法与数组/TwoColorBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day03_方法与数组/TwoColorBall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/AbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/AbstractClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/AdapterMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/AdapterMode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/ArraysOfObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/ArraysOfObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/BasicConceptOfInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/BasicConceptOfInheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/ClassDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/ClassDefinition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/ConstructCodeBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/ConstructCodeBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/ConstructionMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/ConstructionMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/Encapsulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/FactoryMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/FactoryMode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/FinalKeyWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/FinalKeyWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/InheritanceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/InheritanceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/Interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/InternalClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/InternalClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/MainMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/MainMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/ObjectClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/ObjectClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/ObjectOrientedConcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/ObjectOrientedConcept.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/OneToOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/OneToOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/OrdinaryCodeBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/OrdinaryCodeBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/OverrideMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/OverrideMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/PackagingClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/PackagingClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/Polymorphism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/ProxyMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/ProxyMode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/RecursiveAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/RecursiveAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/ReferencePassing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/ReferencePassing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/ReferencePassing2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/ReferencePassing2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/ReferencePassing3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/ReferencePassing3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/SingleCaseDesignPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/SingleCaseDesignPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/StaticCodeBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/StaticCodeBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/StaticKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/StrategyMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/StrategyMode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/SuperKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/SuperKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/TemplateMethodMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/TemplateMethodMode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/ThisKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/ThisKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04_面向对象/ValuePassing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day04_面向对象/ValuePassing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day05_Eclipse与异常处理/AssertDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day05_Eclipse与异常处理/AssertDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day05_Eclipse与异常处理/CustomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day05_Eclipse与异常处理/CustomException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day05_Eclipse与异常处理/ExceptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day05_Eclipse与异常处理/ExceptionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day05_Eclipse与异常处理/HelloEclipse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day05_Eclipse与异常处理/HelloEclipse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day05_Eclipse与异常处理/JDK7Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day05_Eclipse与异常处理/JDK7Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day05_Eclipse与异常处理/LoginDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day05_Eclipse与异常处理/LoginDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day05_Eclipse与异常处理/ThrowsAndThrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day05_Eclipse与异常处理/ThrowsAndThrow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day05_Eclipse与异常处理/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day05_Eclipse与异常处理/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day05_Eclipse与异常处理/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day05_Eclipse与异常处理/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/bignumber/BigNumberDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/bignumber/BigNumberDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/binarytree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/binarytree/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/binarytree/BinaryTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/binarytree/BinaryTreeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/clone/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/clone/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/clone/CloneDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/clone/CloneDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/comparable/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/comparable/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/comparable/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/comparable/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/comparable/DogComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/comparable/DogComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/comparable/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/comparable/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/date/CalendarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/date/CalendarDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/date/DateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/date/DateDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/date/DateFormatDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/date/DateFormatDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/i18n/Internationalization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/i18n/Internationalization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/i18n/info_en_US.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day06_常用类库/i18n/info_en_US.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/i18n/info_zh_CN.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day06_常用类库/i18n/info_zh_CN.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/lambda/LambdaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/lambda/LambdaDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/lambda/LambdaStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/lambda/LambdaStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/lambda/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/lambda/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/math/MathDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/math/MathDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/md5/MD5Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/md5/MD5Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/md5/MD5Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/md5/MD5Demo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/random/RandomDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/random/RandomDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/runtime/RuntimeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/runtime/RuntimeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/string/StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/string/StringDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/string/StringManipulationString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/string/StringManipulationString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/string/StringManipulationStringBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/string/StringManipulationStringBuffer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/string/StringManipulationStringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/string/StringManipulationStringBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06_常用类库/system/SystemDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day06_常用类库/system/SystemDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/buffer/ByteBufferStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/buffer/ByteBufferStreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/buffer/CharacterBufferDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/buffer/CharacterBufferDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/buffer/bufferstream.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day07_文件与IO/buffer/bufferstream.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/bytecharacterstream/ByteCharacterStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/bytecharacterstream/ByteCharacterStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/bytecharacterstream/bytecharacterstream.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day07_文件与IO/bytecharacterstream/bytecharacterstream.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/bytestream/ByteStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/bytestream/ByteStreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/bytestream/bytestream.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day07_文件与IO/bytestream/bytestream.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/charstream/CharStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/charstream/CharStreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/charstream/charstream.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day07_文件与IO/charstream/charstream.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/copyfile/CopyFileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/copyfile/CopyFileDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/copyfile/charstream.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day07_文件与IO/copyfile/charstream.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/file/FileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/file/FileDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/file/FindFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/file/FindFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/file/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day07_文件与IO/file/file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/file/my.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day07_文件与IO/file/my.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/objectstream/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/objectstream/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/objectstream/ObjectStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/objectstream/ObjectStreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/objectstream/ObjectsStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/objectstream/ObjectsStreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/objectstream/dog.obj" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day07_文件与IO/objectstream/dog.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/print/PrintStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/print/PrintStreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/print/PrintWriterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day07_文件与IO/print/PrintWriterDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/print/printStream.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day07_文件与IO/print/printStream.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_文件与IO/print/printWriter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day07_文件与IO/print/printWriter.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/IteratorDesignPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/IteratorDesignPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/collection/iterator/ForEachDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/collection/iterator/ForEachDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/collection/iterator/IteratorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/collection/iterator/IteratorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/collection/list/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/collection/list/ArrayListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/collection/list/LinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/collection/list/LinkedListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/collection/list/VectorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/collection/list/VectorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/collection/set/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/collection/set/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/collection/set/CatComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/collection/set/CatComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/collection/set/HashSetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/collection/set/HashSetDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/collection/set/LinkedHashSetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/collection/set/LinkedHashSetDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/collection/set/TreeSetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/collection/set/TreeSetDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/collections/CollectionsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/collections/CollectionsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/collections/CollectionsSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/collections/CollectionsSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/collections/CollectionsSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/collections/CollectionsSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/guava/GuavaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/guava/GuavaDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/jdk8/ConsumerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/jdk8/ConsumerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/jdk8/FunctionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/jdk8/FunctionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/jdk8/PredicateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/jdk8/PredicateDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/jdk8/SupplierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/jdk8/SupplierDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/jdk8/stream/StreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/jdk8/stream/StreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/map/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/map/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/map/DogComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/map/DogComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/map/HashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/map/HashMapDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/map/HashtableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/map/HashtableDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/map/LinkedHashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/map/LinkedHashMapDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/map/MapNewMethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/map/MapNewMethodDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/map/TreeMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/map/TreeMapDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/onetomany/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/onetomany/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/onetomany/OneToManyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/onetomany/OneToManyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/onetomany/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/onetomany/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/onetomany/StudentAndCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/onetomany/StudentAndCourse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/onetomany/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/onetomany/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/optional/OptionalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/optional/OptionalDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/queuedequestack/DequeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/queuedequestack/DequeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/queuedequestack/QueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/queuedequestack/QueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/queuedequestack/StackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day08_集合/queuedequestack/StackDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_集合/集合框架.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day08_集合/集合框架.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09_多线程与并发/DaemonAndYield.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day09_多线程与并发/DaemonAndYield.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09_多线程与并发/DeadThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day09_多线程与并发/DeadThreadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09_多线程与并发/JoinAndInterrupt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day09_多线程与并发/JoinAndInterrupt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09_多线程与并发/SharingData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day09_多线程与并发/SharingData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09_多线程与并发/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day09_多线程与并发/ThreadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09_多线程与并发/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day09_多线程与并发/ThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09_多线程与并发/ThreadSynchronization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day09_多线程与并发/ThreadSynchronization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09_多线程与并发/producerandconsumer/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day09_多线程与并发/producerandconsumer/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09_多线程与并发/producerandconsumer/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day09_多线程与并发/producerandconsumer/Food.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09_多线程与并发/producerandconsumer/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day09_多线程与并发/producerandconsumer/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09_多线程与并发/producerandconsumer/ProducerAndConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day09_多线程与并发/producerandconsumer/ProducerAndConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09_多线程与并发/线程生命周期.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day09_多线程与并发/线程生命周期.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10_网络编程/OSI_TCPIP.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day10_网络编程/OSI_TCPIP.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10_网络编程/communication/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day10_网络编程/communication/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10_网络编程/communication/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day10_网络编程/communication/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10_网络编程/communication/MessageType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day10_网络编程/communication/MessageType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10_网络编程/communication/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day10_网络编程/communication/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10_网络编程/echo/EchoClientDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day10_网络编程/echo/EchoClientDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10_网络编程/echo/EchoServerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day10_网络编程/echo/EchoServerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10_网络编程/mina/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day10_网络编程/mina/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10_网络编程/mina/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day10_网络编程/mina/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10_网络编程/mina/MinaClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day10_网络编程/mina/MinaClientHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10_网络编程/mina/MinaServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day10_网络编程/mina/MinaServerHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10_网络编程/mina/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day10_网络编程/mina/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10_网络编程/threadserver/MutilClientDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day10_网络编程/threadserver/MutilClientDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10_网络编程/threadserver/MutilServerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day10_网络编程/threadserver/MutilServerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10_网络编程/udp/UDPClientDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day10_网络编程/udp/UDPClientDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10_网络编程/udp/UDPServerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day10_网络编程/udp/UDPServerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10_网络编程/url/URLDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day10_网络编程/url/URLDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10_网络编程/url/photo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day10_网络编程/url/photo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_反射与内省/aop/Advice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day11_反射与内省/aop/Advice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_反射与内省/aop/AopDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day11_反射与内省/aop/AopDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_反射与内省/aop/BeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day11_反射与内省/aop/BeanFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_反射与内省/aop/IManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day11_反射与内省/aop/IManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_反射与内省/aop/IManagerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day11_反射与内省/aop/IManagerImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_反射与内省/aop/LogAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day11_反射与内省/aop/LogAdvice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_反射与内省/aop/ProxyFactoryBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day11_反射与内省/aop/ProxyFactoryBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_反射与内省/aop/bean.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day11_反射与内省/aop/bean.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_反射与内省/bean/BeanDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day11_反射与内省/bean/BeanDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_反射与内省/bean/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day11_反射与内省/bean/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_反射与内省/introspector/BeanDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day11_反射与内省/introspector/BeanDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_反射与内省/introspector/BeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day11_反射与内省/introspector/BeanFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_反射与内省/introspector/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day11_反射与内省/introspector/Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_反射与内省/introspector/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day11_反射与内省/introspector/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_反射与内省/proxy/CreateProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day11_反射与内省/proxy/CreateProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_反射与内省/proxy/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day11_反射与内省/proxy/Hotel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_反射与内省/proxy/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day11_反射与内省/proxy/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_反射与内省/proxy/ProxyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day11_反射与内省/proxy/ProxyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_反射与内省/proxy/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day11_反射与内省/proxy/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_反射与内省/reflection/ClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day11_反射与内省/reflection/ClassDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_反射与内省/reflection/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day11_反射与内省/reflection/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_反射与内省/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day11_反射与内省/singleton/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12_泛型/GenericDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day12_泛型/GenericDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12_泛型/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day12_泛型/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day13_正则表达式/RegexDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day13_正则表达式/RegexDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day13_正则表达式/RegexDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day13_正则表达式/RegexDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14_枚举/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day14_枚举/Color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14_枚举/EnumDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day14_枚举/EnumDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14_枚举/Info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day14_枚举/Info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day14_枚举/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day14_枚举/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day15_注解/AnnotationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day15_注解/AnnotationDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day15_注解/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day15_注解/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day15_注解/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day15_注解/Color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day15_注解/MyAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day15_注解/MyAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16_XML与JSON/json/JSONCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day16_XML与JSON/json/JSONCreate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16_XML与JSON/json/JSONMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day16_XML与JSON/json/JSONMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16_XML与JSON/json/JSONName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day16_XML与JSON/json/JSONName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16_XML与JSON/json/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day16_XML与JSON/json/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16_XML与JSON/json/Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day16_XML与JSON/json/Name.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16_XML与JSON/json/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day16_XML与JSON/json/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16_XML与JSON/json/message.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day16_XML与JSON/json/message.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16_XML与JSON/json/name.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day16_XML与JSON/json/name.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16_XML与JSON/json/names.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day16_XML与JSON/json/names.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16_XML与JSON/xml/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day16_XML与JSON/xml/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16_XML与JSON/xml/PersonHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day16_XML与JSON/xml/PersonHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16_XML与JSON/xml/XMLDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day16_XML与JSON/xml/XMLDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16_XML与JSON/xml/person.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day16_XML与JSON/xml/person.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16_XML与JSON/xml/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/day16_XML与JSON/xml/test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17_GUI事件处理/Frame1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day17_GUI事件处理/Frame1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17_GUI事件处理/Frame2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day17_GUI事件处理/Frame2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17_GUI事件处理/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day17_GUI事件处理/MyFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17_GUI事件处理/observer/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day17_GUI事件处理/observer/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17_GUI事件处理/observer/MessageSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day17_GUI事件处理/observer/MessageSubject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17_GUI事件处理/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day17_GUI事件处理/observer/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17_GUI事件处理/observer/ObserverDesignPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day17_GUI事件处理/observer/ObserverDesignPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17_GUI事件处理/observer/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/day17_GUI事件处理/observer/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/OSI_TCPIP.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/images/OSI_TCPIP.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/线程生命周期.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/images/线程生命周期.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/集合框架.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/images/集合框架.png" afterDir="false" />
-    </list>
+    <list default="true" id="927a2fc5-6cdf-43ed-be26-0167691e63f5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -485,7 +99,7 @@
       <workItem from="1573697581544" duration="321000" />
       <workItem from="1574408056922" duration="318000" />
       <workItem from="1578286197373" duration="213000" />
-      <workItem from="1578296688122" duration="1593000" />
+      <workItem from="1578296688122" duration="1738000" />
     </task>
     <task id="LOCAL-00001" summary="2019年11月13日">
       <created>1573648214243</created>
@@ -508,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573695673213</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=":art:将基础知识进行整理">
+      <created>1578298406439</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578298406439</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,21 +151,26 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2019年11月13日" />
     <MESSAGE value="2019年11月14日" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019年11月14日" />
+    <MESSAGE value=":art:将基础知识进行整理" />
+    <option name="LAST_COMMIT_MESSAGE" value=":art:将基础知识进行整理" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="324" y="122" key="CommitChangelistDialog2" timestamp="1578298403560">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="324" y="122" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1578298403560" />
     <state x="463" y="170" key="SettingsEditor" timestamp="1578286267639">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="463" y="170" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1578286267639" />
-    <state x="552" y="261" key="Vcs.Push.Dialog.v2" timestamp="1578296817021">
+    <state x="552" y="261" key="Vcs.Push.Dialog.v2" timestamp="1578298430441">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1578296817021" />
-    <state x="652" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1578296688621">
+    <state x="552" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1578298430441" />
+    <state x="652" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1578298506179">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="652" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1578296688621" />
+    <state x="652" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1578298506179" />
     <state x="652" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578286197614" />
   </component>
 </project>
